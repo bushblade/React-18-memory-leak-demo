@@ -17,3 +17,7 @@ To reproduce:-
 In React 18 you will see no warning.
 
 In React 17 you will see a warning.
+
+[React 17 Demo on CodeSandbox](https://codesandbox.io/s/priceless-hill-4uitkl?file=/src/App.jsx)
+
+[React 18 Demo on CodeSandbox](https://codesandbox.io/s/proud-wave-vk1tpi?file=/src/App.jsx)
